@@ -1,0 +1,25 @@
+.titulo{
+    display: flex;
+    font-size: 40px;
+    align-items: center;
+    color: blue;
+    justify-content: center;
+
+}
+
+
+.parrafo{
+    justify-content: center;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.parrafo p{
+    text-align: justify;
+}
+
+.Imagen{ 
+    text-align: center;
+}
